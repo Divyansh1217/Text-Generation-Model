@@ -1,1 +1,1 @@
-﻿# Text-Generation-Model Using LSTM and Contitution Of India
+﻿# Text-Generation-Model Using LSTM and the Constitution Of India
